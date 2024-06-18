@@ -7,3 +7,4 @@ clocwalk>=0.2.0
 gevent
 rsa
 func_timeout
+urllib3>=2.2.2 # not directly required, pinned by Snyk to avoid a vulnerability
