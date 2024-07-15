@@ -7,3 +7,4 @@ clocwalk>=0.2.0
 gevent
 rsa
 func_timeout
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
